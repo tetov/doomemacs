@@ -138,7 +138,7 @@ public variables/functions (e.g. ~bookmark-default-file~ or
   - =rewrite-docs= for changes to =*.org= files.
   - =master= for everything else.
   - /Never/ =develop=. It's EOL.
-- Consult [[https://gist.github.com/hlissner/bb6365626d825aeaf5e857b1c03c9837][our do-not-PR list]] for things we won't accept pull requests for.
+- Consult [[https://github.com/orgs/doomemacs/projects/17][our do-not-PR list]] for things we won't accept pull requests for.
   
 *** TODO Keybind conventions
 
